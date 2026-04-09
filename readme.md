@@ -55,15 +55,6 @@ EDA · Feature Engineering · Model Evaluation
 | COAL | [Rush Hour — Assembly Game](https://github.com/tahakhan/rush-hour-assembly) | Full taxi game written in x86 Assembly with leaderboard & save system |
 | Intro to Data Science | [DS Term Project](https://github.com/tahakhan/ids-term-project) | End-to-end data science pipeline — EDA, modeling, and visualization |
 
----
-
-## 📊 Currently Learning
-
-- Deep Learning & Neural Networks
-- Data visualization best practices
-- Building end-to-end ML pipelines
-
----
 
 ## 📬 Connect
 
