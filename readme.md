@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Data Science student at one of Pakistan's top CS universities, building hands-on experience across machine learning, systems programming, and software engineering. From training classifiers to writing assembly — I enjoy working across the stack and turning raw data into real insights.
+I'm a Data Science student at FAST NUCES Islamabad, building hands-on experience across machine learning, systems programming, and software engineering. From training classifiers to writing codes — I enjoy working across the stack and turning raw data into real insights.
 
 ---
 
